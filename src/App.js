@@ -1,10 +1,11 @@
 import './App.css';
 import { FirstHeaderDiv } from './Components/FirstHeaderDiv';
+import { Navbar } from './Components/Navbar';
 
 function App() {
   return (
     <div className="App">
-    <h2>Flipkart</h2>
+    <Navbar/>
     <FirstHeaderDiv />
     </div>
   );
