@@ -1,0 +1,22 @@
+.bluenavtop{
+    width: 100%;
+    height: 70px;
+    background-color: #047bd5;
+}
+.flipkartlogo{
+    width: 100px;
+    height: 30px;
+    
+}
+.searchbox{
+    width: 400px;
+    height: 25px;
+   margin-top: -20px;
+}
+.atag{
+    color:  white;
+}
+.carticon{
+    height: 50px;
+    width: 50px;
+}
